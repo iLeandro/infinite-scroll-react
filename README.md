@@ -36,9 +36,9 @@ const PORT = process.env.PORT || 5000
 app.listen(PORT, () => console.log(`Server started on port ${PORT}`))
 
 
-# Project Title
+# Infinite Scroll
 
-One Paragraph of project description goes here
+Infinite Scroll is a simple React App that fetches images from an API.
 
 ## Getting Started
 
@@ -50,6 +50,7 @@ What things you need to install the software and how to install them
 
 ```
 Give examples
+NPM XXXX
 ```
 
 ### Installing
@@ -96,8 +97,8 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
+* [ReactJS](https://reactjs.org/) - The web framework used
+* [Scoth.io](https://scotch.io/bar-talk/code-challenge-16-infinite-scroll-unsplash-gallery) - Inspired 
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Contributing
@@ -110,7 +111,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Leandro Almeida** - *Initial work* - [PurpleBooth](https://github.com/iLeandro)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
